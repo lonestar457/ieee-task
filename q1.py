@@ -6,6 +6,6 @@ for i in a :
         if i==j:
             s+=1
 if s!=0:
-    print ("Complimentry, No of matching elements = ",s)
+    print ("Not Complimentry, No of matching elements = ",s)
 else:
-    print ("Not complimentry")
+    print ("Complimentry")
